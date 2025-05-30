@@ -1,5 +1,3 @@
-# Titanic Dataset - Exploratory Data Analysis (EDA)
-
 ## 📁 Project Overview
 This project performs an exploratory data analysis (EDA) on a sample Titanic dataset using Python (Pandas, Seaborn, Matplotlib). The goal is to uncover insights regarding passenger survival based on various features such as age, gender, class, and more.
 
