@@ -55,9 +55,3 @@ This project performs an exploratory data analysis (EDA) on a sample Titanic dat
 
 ---
 
-## 🚀 How to Run
-1. Ensure `dataset3 - Sheet1.csv` is in your working directory.
-2. Run the Python script:
-
-```bash
-python titanic_eda.py
